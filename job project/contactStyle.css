@@ -1,0 +1,67 @@
+
+body {
+    background-color: lightblue;
+}
+<div class="row">
+    <div class="col-lg-3">
+<!-- div for picture -->
+    </div>
+    
+    <div class="col-lg-9">
+<!-- div for text -->
+    </div>
+</div>
+header, footer {
+    background-color: indianred;
+    color: white;
+}
+
+.border {
+    border: thick solid blue;
+}
+
+#experience {
+    border: thick dashed orange;
+	
+}
+
+<div class="row">
+    <div class="col-lg-3">
+
+    </div>
+    
+    <div class="col-lg-9">
+
+    </div>
+</div>
+a {
+  font-family: monospace;
+  text-decoration: none;
+  font-weight: none;
+}
+
+a:link {
+  color: green;
+  text-decoration;
+}
+
+a:visited {
+  color: red;
+  text-decoration;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #00c;
+  font-family: cursive;
+}
+
+a:active {
+  font-weight: bold;
+  text-decoration;
+}
+class="btn"
+nav .btn {
+    background-color: #5b7d87;
+    color: #fef9ff; 
+}
